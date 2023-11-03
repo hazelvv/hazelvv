@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|               |
 |     2|               |
 |     3|               |
+
+-->
+
+🏆 Contest
