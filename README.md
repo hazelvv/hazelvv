@@ -25,16 +25,17 @@ Here are some ideas to get you started:
 
 -->
 
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-Open Source Love
+
 
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
+        self.name = "Hazel Lee"
         self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.language_spoken = ["en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -42,5 +43,5 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
-
+```
 🏆 Contest
