@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Hazel Lee"
+        self.name = "Hyunjeong Lee"
         self.role = "Software Engineer"
         self.language_spoken = ["en_US"]
 
