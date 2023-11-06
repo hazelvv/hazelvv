@@ -92,12 +92,12 @@ me.say_hi()
 
 ## 🏆 Contest
 
-| DATE |       ADMINISTRATION          | CONTEST NAME                     |   AWARD   |
-|-----:|-------------------------------|----------------------------------|-----------| 
-| 2022 | 홍익대학교                       | 종합설계경진대회                      |    대상    |
-| 2022 | 홍익대 바이오헬스 혁신공유대학사업단    | 바이오헬스경진대회                     |    장려상   |
-| 2023 | 국제문화기술진흥원,한국인터넷방송통신학회 | 대화형GPT (생성AI) 경진대회 CoGAI 2023 |    참가    |
-| 2023 | 그린라이트, 과기부                 | 배리어프리 앱개발 콘테스트               |    참가    |
+| DATE |       ADMINISTRATION          | CONTEST NAME                                         |   AWARD   |
+|-----:|-------------------------------|------------------------------------------------------|-----------| 
+| 2022 | HONGIK UNIVERSITY             | Comprehensive Design Competition                     |    TOP    |
+| 2022 | HONGIK UNIVERSITY BIOHEALTH   | Biohealth Competition                                |  ENCOURAGEMENT PRIZE   |
+| 2023 | 국제문화기술진흥원,한국인터넷방송통신학회 | InteractiveGPT(GENERATIVE AI) COMPETITION CoGAI 2023 |    ATTEND   |
+| 2023 | 그린라이트, 과기부                 | Barrier-free APP DEVELOPMENT CONTEST                 |    ATTEND   |
 
 
 
