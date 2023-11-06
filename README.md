@@ -101,7 +101,7 @@ me.say_hi()
 
 
 
-🗂️ Highlight Projects
+## 🗂️ Highlight Projects
 | DATE |       ADMINISTRATION          | PROJECT NAME                     |   AWARD   |
 |-----------|-------------------------------|----------------------------------|-----------| 
 | 2022.09-12 | HONGIK UNIVERSITY             | DB설계 및 구현                      |    A+     |
