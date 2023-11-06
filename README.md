@@ -96,8 +96,8 @@ me.say_hi()
 |-----:|-------------------------------|------------------------------------------------------|-----------| 
 | 2022 | HONGIK UNIVERSITY             | Comprehensive Design Competition                     |    TOP    |
 | 2022 | HONGIK UNIVERSITY BIOHEALTH   | Biohealth Competition                                |  ENCOURAGEMENT PRIZE   |
-| 2023 | 국제문화기술진흥원,한국인터넷방송통신학회 | InteractiveGPT(GENERATIVE AI) COMPETITION CoGAI 2023 |    ATTEND   |
-| 2023 | 그린라이트, 과기부                 | Barrier-free APP DEVELOPMENT CONTEST                 |    ATTEND   |
+| 2023 | 국제문화기술진흥원,한국인터넷방송통신학회 | InteractiveGPT(GENERATIVE AI) COMPETITION CoGAI 2023 |  ATTEND   |
+| 2023 | 그린라이트, 과기부                 | Barrier-free APP DEVELOPMENT CONTEST                 |  ATTEND   |
 
 
 
