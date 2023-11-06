@@ -90,7 +90,7 @@ me.say_hi()
 
 -->
 
-##🏆 Contest
+## 🏆 Contest
 
 | DATE |       ADMINISTRATION          | CONTEST NAME                     |   AWARD   |
 |-----:|-------------------------------|----------------------------------|-----------| 
