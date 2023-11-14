@@ -71,9 +71,8 @@ me.say_hi()
 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-<!--![c](\https://img.shields.io/badge/Code-C-informational%3Fstyle%3Dflat%26logo%3DC%26logoColor%3Dwhite%26color%3D=blue
-)-->
-
+[c](\https://img.shields.io/badge/Code-C-informational%3Fstyle%3Dflat%26logo%3DC%26logoColor%3Dwhite%26color%3D=blue
+)
 <!--
 
 ## 🗂️ Highlight Projects
