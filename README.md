@@ -141,7 +141,8 @@ me.say_hi()
 | 2022.04-11 | research team project       |    TOP    |
 
 ## 📖 Thesis
-Human tendency measurement model algorithm through biological current pattern analysis
+1. Human tendency measurement model algorithm through biological current pattern analysis
+2. [about AI] ING
 
 
 
