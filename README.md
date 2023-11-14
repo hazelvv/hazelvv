@@ -138,7 +138,10 @@ me.say_hi()
 | DATE       | PROJECT NAME                |   GRADE   |
 |------------|-----------------------------|-----------| 
 | 2022.09-12 | DB design and implementation|    A+     |
+| 2022.04-11 | research team project       |    TOP    |
 
+## 📖 Thesis
+Human tendency measurement model algorithm through biological current pattern analysis
 
 
 
