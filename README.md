@@ -102,9 +102,9 @@ me.say_hi()
 
 
 ## 🗂️ Highlight Projects
-| DATE |       ADMINISTRATION          | PROJECT NAME                     |   GRADE   |
-|-----------|-------------------------------|-----------------------------|-----------| 
-| 2022.09-12 | HONGIK UNIVERSITY            | DB design and implementation|    A+     |
+| DATE       | PROJECT NAME                |   GRADE   |
+|------------|-----------------------------|-----------| 
+| 2022.09-12 | DB design and implementation|    A+     |
 
 
 
