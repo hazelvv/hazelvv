@@ -142,13 +142,7 @@ me.say_hi()
 
 ## 📖 Thesis
 1. Human tendency measurement model algorithm through biological current pattern analysis
-2. [about AI] ING
-
-
-
-
-
-
+2. Query Implement against a Articitial Intelligence Hallucination!
 
 
 
