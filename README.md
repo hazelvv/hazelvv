@@ -141,8 +141,8 @@ me.say_hi()
 | 2022.04-11 | research team project       |    TOP    |
 
 ## 📖 Thesis
-1. Human tendency measurement model algorithm through biological current pattern analysis
-2. Query Implement against a Articitial Intelligence Hallucination!
+1. Human tendency measurement model algorithm through biological current pattern analysis(2022)
+2. Query Implement against a Articitial Intelligence Hallucination!(2023)
 
 
 
