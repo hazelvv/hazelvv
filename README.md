@@ -41,8 +41,7 @@ class SoftwareEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
-Korean Artificial Intelligence Association[한국인공지능학회-회원]
+me = SoftwareEngineer() Korean Artificial Intelligence Association[한국인공지능학회-회원]
 me.say_hi()
 ```
 <!--
