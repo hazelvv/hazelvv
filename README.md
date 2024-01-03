@@ -86,6 +86,7 @@ me.say_hi()
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 **Tools:**
 
