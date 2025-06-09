@@ -35,13 +35,14 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Hyunjeong Lee"
         self.role = "Software Engineer"
+        self.role2 = "Python Educator"
         self.language_spoken = ["en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer() Korean Artificial Intelligence Association[한국인공지능학회-회원]
+me = SoftwareEngineer() 
 me.say_hi()
 ```
 <!--
@@ -145,5 +146,8 @@ me.say_hi()
 1. Human tendency measurement model algorithm through biological current pattern analysis(2022)
 2. Query Implement against a Articitial Intelligence Hallucination!(2023)
 
+## 👨‍💻 Professional Affiliations
+1. CSTA NYC(New York, USA)[컴퓨터 과학 교사 협회 회원]
+2. Korean Artificial Intelligence Association[한국인공지능학회-회원]
 
 
